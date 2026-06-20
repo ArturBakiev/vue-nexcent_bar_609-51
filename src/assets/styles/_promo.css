@@ -1,0 +1,14 @@
+.promo {
+    background-color: #F5F7FA;
+    padding: 96px 144px;
+}
+
+.promo_content {
+    display: flex;
+    align-items: center;
+    gap: 111px;
+}
+
+.promo_group p{
+    margin-bottom: 32px;
+}
